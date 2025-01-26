@@ -1,0 +1,37 @@
+body {
+    /* background-color: rgb(77, 103, 126); */
+    background: linear-gradient(to left,#d5426e,#4d92a5);
+  }
+  .user-info {
+    margin-top: 20px;
+  }
+  img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  .error {
+    color: red;
+  }
+  #container{
+    position: relative;
+    top: 30px;
+    left: 400px;
+    /* background-color: rgb(52, 147, 106); */
+    background: linear-gradient(to right,#008e4e,#352b7c);
+    height: 500px;
+    width: 500px;
+    border-radius: 30px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+  }
+  h1{
+    color: rgb(167, 49, 49);
+  }
+  button{
+    background-color: rgb(255, 0, 0);
+    color: black;
+  }
+  
